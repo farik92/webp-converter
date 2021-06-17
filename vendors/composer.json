@@ -1,0 +1,10 @@
+{
+  "autoload": {
+    "psr-4": {
+      "WebpConverter\\": "../Classes"
+    }
+  },
+  "require": {
+    "rosell-dk/webp-convert": "^2.3"
+  }
+}
